@@ -2,9 +2,9 @@
 using namespace std;
 
 
-int a=
-int b=
+int a=1;
+int b=1;
 
 if (a>b) {
-    cout<<"mytext" << a;
+    cout<<"mytext " << a; // expected result: mytext 1
 }
